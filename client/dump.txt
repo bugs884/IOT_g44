@@ -1,0 +1,11 @@
+plate0: 10 results
+    - GF430X	 confidence: 89.5842	 pattern_match: 1
+    - GF430X1	 confidence: 86.35	 pattern_match: 0
+    - GF430XI	 confidence: 85.3118	 pattern_match: 0
+    - GF43OX	 confidence: 82.0644	 pattern_match: 1
+    - GF43QX	 confidence: 81.4693	 pattern_match: 1
+    - 0F430X	 confidence: 79.5856	 pattern_match: 0
+    - GF43OX1	 confidence: 78.8302	 pattern_match: 0
+    - GF43QX1	 confidence: 78.2351	 pattern_match: 0
+    - GF43OXI	 confidence: 77.792	 pattern_match: 0
+    - F430X	 confidence: 77.322	 pattern_match: 0

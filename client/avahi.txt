@@ -1,0 +1,4 @@
++;wlan0;IPv6;ParkingTUE;_coap._udp;local
++;wlan0;IPv4;ParkingTUE;_coap._udp;local
+=;wlan0;IPv6;ParkingTUE;_coap._udp;local;sups-Inspiron-3421.local;fe80::14d2:f30f:2e9f:e3a8;5683;"“/PARKINGBROKER”"
+=;wlan0;IPv4;ParkingTUE;_coap._udp;local;sups-Inspiron-3421.local;192.168.0.193;5683;"“/PARKINGBROKER”"
